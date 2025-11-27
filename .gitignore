@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Editor settings
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Personal data exports
+apple_health_export/
+
+data/db/
+data/processed/
+
+# OS files
+.DS_Store
